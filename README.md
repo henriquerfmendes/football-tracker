@@ -22,6 +22,7 @@ Um aplicativo Node.js busca as próximas partidas de múltiplas competições de
 
 ## Estrutura do Projeto
 
+```
 .
 ├── src/
 │   ├── clients/         # Clientes para APIs externas

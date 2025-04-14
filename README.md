@@ -108,6 +108,7 @@ A Node.js application that fetches upcoming matches from multiple football compe
 
 ## Project Structure
 
+```
 .
 ├── src/
 │ ├── clients/ # Clients for external APIs
@@ -125,7 +126,7 @@ A Node.js application that fetches upcoming matches from multiple football compe
 ├── .env # Environment variables (not versioned)
 ├── README.md # Project documentation
 └── package-lock.json # Dependencies lock
-
+```
 
 ## How to Configure
 
